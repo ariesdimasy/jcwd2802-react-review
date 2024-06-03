@@ -1,0 +1,16 @@
+.navbar {
+    width: 100%;
+    color: white;
+    background-color: tomato;
+    height: 50px;
+    line-height: 50px;
+}
+
+.navbar ul li { 
+    width: 100px;
+    
+}
+
+.navbar ul li a { 
+    text-align: 'center';
+}
